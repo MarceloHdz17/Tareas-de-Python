@@ -8,7 +8,7 @@ def play():
         playera = "Te toca la 27"
     if user == "Marcelo":
         playera = "Te toca la 10"
-    elif user == "Marcelo":
+    elif user == "Juan":
           playera = "Ya veremos cual te toca"
     else:
         playera = "Sigue participando"
